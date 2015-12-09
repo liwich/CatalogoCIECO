@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7701" systemVersion="14C109" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Especie" representedClassName="CatalogoCIECO.Especie" syncable="YES">
+        <attribute name="clase" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="familia" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="genero" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imagen1" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="imagen2" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="imagen3" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="imagen4" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="nombreCientifico" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nombreComun" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="orden" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="referencias" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subclase" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="superorden" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tipoEs" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Especie" positionX="-54" positionY="-9" width="128" height="255"/>
+    </elements>
+</model>
